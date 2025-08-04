@@ -1,0 +1,8 @@
+{
+  "name": "Cinemamystique",
+  "description": "Contenido en español latino y castellano 🔮",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/muruffin/cinemamystique/main/plugins.json"
+  ]
+}
